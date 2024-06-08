@@ -1,0 +1,3 @@
+  <p class="account-info">Log in as </p>
+           <button class="btn" id="user-btn">Log out</button>
+           <button class="btn" id="user-btn">Sign Up/Login</button>
